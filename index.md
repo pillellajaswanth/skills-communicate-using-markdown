@@ -3,3 +3,7 @@
 ``` javascript
 var myVar = "Yaktocat!";
 ```
+## Tasks
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
